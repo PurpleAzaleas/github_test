@@ -5,5 +5,6 @@ public class GitHubTest {
         System.out.println("test");
         int a = 1;
         int c = 3;
+        String s = "test";
     }
 }
